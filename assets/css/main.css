@@ -2036,6 +2036,15 @@ input, select, textarea {
 		}
 
 /* Image */
+	.bruh {
+		border-radius: 0.35em;
+		border: 0;
+		display: inline-block;
+		position: relative;
+		display: block;
+		margin: 0 0 2em 0;
+		width: 100%;
+	}
 
 	.image {
 		border-radius: 0.35em;
